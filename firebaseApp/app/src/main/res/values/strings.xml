@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseNotificationApp</string>
+    <array name="topics">
+        <item>notifications</item>
+        <item>Updates</item>
+    </array>
+</resources>
